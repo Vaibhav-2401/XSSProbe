@@ -8,7 +8,8 @@ It combines **Katana-powered crawling**, multiple **scan modes**, real-time payl
 progress, and **keyboard hotkeys** to make XSS testing faster and more practical
 in real-world scenarios.
 
-![xss](https://github.com/user-attachments/assets/68fe3676-ad5d-4b0b-977a-28335e7a137f)
+![xss](https://github.com/user-attachments/assets/e4e5829d-2891-49ce-971e-d1106c2f995e)
+
 
 ---
 
