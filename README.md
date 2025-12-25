@@ -41,12 +41,11 @@ pip3 install -r requirements.txt
 ### Install Katana
 go install github.com/projectdiscovery/katana/cmd/katana@latest
 ```
-
+---
 ## 🚀 Usage
 
 XSSProbe supports scanning a **single domain** or **multiple domains from a file**.
 
----
 
 ### 🔹 Scan a Single Domain
 
