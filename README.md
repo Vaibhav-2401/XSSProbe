@@ -31,11 +31,9 @@ pip3 install -r requirements.txt
 
 ## 🔧 External Dependencies
 
-XSSProbe requires the following external tools:
+#XSSProbe requires the following external tools:
 
-- **Katana** (by ProjectDiscovery) – used for crawling URLs
+#**Katana** (by ProjectDiscovery) – used for crawling URLs
 
 ### Install Katana
-
-```bash
 go install github.com/projectdiscovery/katana/cmd/katana@latest
