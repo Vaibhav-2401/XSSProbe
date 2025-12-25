@@ -1,16 +1,4 @@
 
-![xss](https://github.com/user-attachments/assets/68fe3676-ad5d-4b0b-977a-28335e7a137f)
-
-
-
-
-
-
-
-
-
-
-
 # XSSProbe
 
 🚀 **XSSProbe** is an advanced Cross-Site Scripting (XSS) detection tool built for
@@ -19,6 +7,8 @@ bug bounty hunters and penetration testers.
 It combines **Katana-powered crawling**, multiple **scan modes**, real-time payload
 progress, and **keyboard hotkeys** to make XSS testing faster and more practical
 in real-world scenarios.
+
+![xss](https://github.com/user-attachments/assets/68fe3676-ad5d-4b0b-977a-28335e7a137f)
 
 ---
 
