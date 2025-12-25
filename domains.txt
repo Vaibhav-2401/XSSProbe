@@ -1,3 +1,4 @@
 http://testphp.vulnweb.com
-https://choiceindia.com
-https://mumu.edu.in
+http://testphp.vulnweb.com
+http://testphp.vulnweb.com
+
