@@ -21,6 +21,31 @@ in real-world scenarios.
 
 ---
 
+## ✨ Usage
+
+
+XSSProbe supports scanning a **single domain** or **multiple domains from a file**.
+
+---
+
+### 🔹 Scan a Single Domain
+
+Use this mode when you want to test one target at a time.
+
+```bash
+python3 main.py example.com
+
+```
+
+Use this mode when testing multiple targets in bulk.
+
+```bash
+python3 main.py -l domains.txt
+
+
+
+
+
 ## 📦 Installation
 
 Clone the repository and install Python dependencies:
